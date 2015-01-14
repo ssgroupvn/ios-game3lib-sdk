@@ -1,0 +1,49 @@
+10
+
+dir
+0
+http://113.161.74.215:81/data/game3_app/iOS/Game5Connector_Iphone5/TestLibPrj/FacebookSDK.framework/Versions/A/Resources
+http://113.161.74.215:81/data/game3_app
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3644d4da-4c36-11e3-a9b5-2b22533a2a5a
+
+FBUserSettingsViewResources.bundle
+dir
+
+
+
+add
+
+Info.plist
+file
+
+
+
+add
+
+FacebookSDKResources.bundle.README
+file
+
+
+
+add
+
